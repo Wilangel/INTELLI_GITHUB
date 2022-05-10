@@ -12,7 +12,7 @@ public class CapturaNumeros {
      System.out.println("Inserta el Primer Numero: ");
      num1=in.nextInt();
      System.out.println("Inserta el Segundo Numero: ");
-     num1=in.nextInt();
+     num2=in.nextInt();
  }
 
 }
